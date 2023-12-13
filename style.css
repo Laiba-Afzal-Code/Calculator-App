@@ -9,7 +9,7 @@ body {
   font-family: 'Bitter', 'Cinzel', 'Croissant One', serif;
 }
 .container{
-    background-image: url('back\ cal.jpeg');
+    background-image: url('/img/back\ cal.jpeg ');
     background-size: cover;
     background-position: center;
 }
